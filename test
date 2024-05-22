@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Oye's Professional Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(to right, #f8cdda, #1fd1f9);
+            color: #333;
+        }
+        header {
+            background: #ff6f61;
+            color: #fff;
+            padding: 1rem;
+            text-align: center;
+        }
+        section {
+            padding: 2rem;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: #fff;
+            padding: 2rem;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        .highlight {
+            background: #ffef96;
+            padding: 0.5rem;
+            border-radius: 5px;
+            margin-bottom: 1rem;
+        }
+        h1, h2, h3 {
+            color: #ff6f61;
+        }
+        footer {
+            text-align: center;
+            padding: 1rem;
+            background: #ff6f61;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Oye's Professional Portfolio</h1>
+    </header>
+    <section>
+        <div class="container">
+            <h2>About Me</h2>
+            <p>Hello! My name is Oye. I have a passion for football, music, and finance. With extensive experience in banking, financial services, and technology, I specialize in financial control, client advisory, business development, and compliance.</p>
+
+            <h2>Profile Summary</h2>
+            <p class="highlight">Experienced Financial Services & Part Qualified Accountant with expertise in Banking, Financial Control, Client Advisory, Business Development, Credit Lending Supply Value Chain, and Compliance. Skilled in Advanced Excel, Python, SQL, Tableau, Power BI, CRM, Outlook, and PowerPoint.</p>
+
+            <h2>Key Achievements</h2>
+            <ul>
+                <li>Automated reporting workflow with VBA, saving over 200 hours of manual processing.</li>
+                <li>Recognized for deploying an Excel template that facilitated the opening of Notice Accounts, generating potential deposits worth £79 million.</li>
+                <li>Achieved Distinction for an MSc dissertation on Machine Learning models for financial time series prediction.</li>
+                <li>Led multiple regulatory engagements and coordinated internal & external audits in the fintech sector.</li>
+                <li>Conducted over 1000 annual portfolio reviews for commercial and private banking clients.</li>
+                <li>Contributed to the successful merger of Access Bank and Diamond Bank Plc in Nigeria.</li>
+            </ul>
+
+            <h2>Core Competencies</h2>
+            <ul>
+                <li>Data Visualisation</li>
+                <li>Project Management</li>
+                <li>Business Data Intelligence</li>
+                <li>Economic Analysis</li>
+                <li>Credit Analysis</li>
+                <li>Financial Analysis & Modeling</li>
+                <li>Company Valuation</li>
+                <li>Reports and Presentations</li>
+                <li>Knowledge of Accounting Standards</li>
+                <li>Stakeholder Engagements</li>
+                <li>Teamwork</li>
+                <li>Work with minimal supervision</li>
+            </ul>
+
+            <h2>Professional Experience</h2>
+            <h3>Associate Banker, Technology, Media, and Telecoms – Barclays Bank, UK (May 2023 - Present)</h3>
+            <ul>
+                <li>Managed portfolio and support for corporate clients with turnover >£100 million.</li>
+                <li>Handled complex financial analysis for credit proposals.</li>
+                <li>Organized networking events and seminars for corporate clients.</li>
+                <li>Coordinated client meetings and hospitality events.</li>
+            </ul>
+
+            <h3>Service Charge Accountant – Firstport UK (Nov 2022 - May 2023)</h3>
+            <ul>
+                <li>Prepared and delivered year-end accounts to clients.</li>
+                <li>Resolved accounting issues and ensured quality service.</li>
+                <li>Liaised with external auditors for smooth audit processes.</li>
+            </ul>
+
+            <h3>Finance Analyst – Trove Finance (Jan 2022 - Sep 2022)</h3>
+            <ul>
+                <li>Prepared financial reports and developed forecasts.</li>
+                <li>Developed valuation models for seed funding.</li>
+                <li>Conducted economic and financial research studies.</li>
+            </ul>
+
+            <h3>Financial Control Analyst – Access Bank Plc, Nigeria (Apr 2015 - Aug 2021)</h3>
+            <ul>
+                <li>Developed financial models for customer credit behavior prediction.</li>
+                <li>Conducted Enhanced KYC and due diligence checks.</li>
+                <li>Managed client advisories on market penetration strategies.</li>
+            </ul>
+
+            <h2>Education</h2>
+            <p><strong>MSc International Finance and Economics</strong> - Bournemouth University, England, 2022</p>
+            <p><strong>BSc Economics</strong> - University of Ilorin, Nigeria, 2012</p>
+
+            <h2>Professional Training</h2>
+            <ul>
+                <li>Studying towards CFA & ACCA certifications</li>
+                <li>Macroeconomic Forecasting</li>
+                <li>Data Analytics, Economic Modelling and Forecasting, and Visualization</li>
+                <li>Google IT Automation with Python</li>
+            </ul>
+        </div>
+    </section>
+    <footer>
+        <p>Connect with me on <a href="https://www.linkedin.com" style="color: #fff; text-decoration: underline;">LinkedIn</a></p>
+    </footer>
+</body>
+</html>
+
+
